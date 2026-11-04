@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn>=1.4
+plotly
+jupyter
+pytest
